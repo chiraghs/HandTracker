@@ -18,20 +18,11 @@
 [![Watch the video](/images/video.png)](/videos/roar.mp4)
 
 
-------------------------------------------------------------
 
-
---video 
-![Product Gif](/images/responsive.png)
 
 
 ------------------------------------------------------------
 
-OpenWeather Api
-
-- `SignUp` and get unique Api_key
-- `Login` and see config settings
-- `https://api.openweathermap.org/data/2.5/weather?q=` this format to get weather info of particular city
 
 
 const modelParams = {
